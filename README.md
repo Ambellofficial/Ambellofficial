@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ambellofficial
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning sotfware engineering
-- 💞️ I’m looking to collaborate on solvung the world's problem
+- 💞️ I’m looking to collaborate on solving the world's problem
 - 📫 How to reach me fathiubello1@gmail.com
 
 <!---
